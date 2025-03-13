@@ -3,7 +3,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David R.
 ================================================================================================================================
 
-Hobbyist and professional software developer. Currently learning how to contribute to the open source community. and professional software developer.
+Hobbyist and professional software developer. Currently learning how to contribute to the open source community.
 --------------------------------------------
 
 I've been coding for a long time, starting with tinkering and problem-solving as a child. Now, I find myself both challenged and engaged by the world of SaaS software development. I'm a strong advocate for agile and lean methodologies, and I'm excited to learn how contribute with my skills to the Open Source community.

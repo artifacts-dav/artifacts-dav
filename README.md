@@ -1,6 +1,6 @@
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGd5OHQwbnd3bW5oMmJhczI3OWhjM2RxaHBndzQxNG9zYm95bnN6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fx8mWgxWb6zTF4xQtb/giphy.webp" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David R.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David.
 ================================================================================================================================
 
 Hobbyist and professional software developer. Currently learning how to contribute to the open source community.

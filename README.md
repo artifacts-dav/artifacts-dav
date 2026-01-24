@@ -9,7 +9,7 @@ Hobbyist and professional software developer. Currently learning how to contribu
 I've been coding for a long time, starting with tinkering and problem-solving as a child. Now, I find myself both challenged and engaged by the world of SaaS software development. I'm a strong advocate for agile and lean methodologies, and I'm excited to learn how contribute with my skills to the Open Source community.
 
 * 🌍  I'm based in Mexico
-* 🖥️  See my portfolio at [Digital Artifactory (WIP)](http://digitalartifactory.com/)
+* 🖥️  See my OSS GitHub Organization [artifacts-oss](http://oss.artifacts.mx/)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on intersting Open Source projects
 * ⚡  WinForms is my passion...

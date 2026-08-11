@@ -1,3 +1,5 @@
+
+
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGd5OHQwbnd3bW5oMmJhczI3OWhjM2RxaHBndzQxNG9zYm95bnN6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fx8mWgxWb6zTF4xQtb/giphy.webp" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David.
@@ -8,11 +10,11 @@ Hobbyist and professional software developer. Currently learning how to contribu
 
 I've been coding for a long time, starting with tinkering and problem-solving as a child. Now, I find myself both challenged and engaged by the world of SaaS software development. I'm a strong advocate for agile and lean methodologies, and I'm excited to learn how contribute with my skills to the Open Source community.
 
-* 🌍  I'm based in Mexico
-* 🖥️  See my OSS GitHub Organization [artifacts-oss](http://oss.artifacts.mx/)
-* 🧠  I'm learning TypeScript
-* 🤝  I'm open to collaborating on intersting Open Source projects
-* ⚡  WinForms is my passion...
+* 🌍  I'm based in Mexico
+* 🖥️  See my OSS GitHub Organization [artifacts-oss](http://oss.artifacts.mx/)
+* 🧠  I'm learning TypeScript
+* 🤝  I'm open to collaborating on interesting Open Source projects
+* ⚡  WinForms is my passion...
 
 ### Skills
 

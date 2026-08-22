@@ -11,7 +11,7 @@ I've been coding for a long time, starting with tinkering and problem-solving as
 * 🌍  I'm based in Mexico
 * 🖥️  See my OSS GitHub Organization [artifacts-oss](http://oss.artifacts.mx/)
 * 🧠  I'm learning TypeScript
-* 🤝  I'm open to collaborating on intersting Open Source projects
+* 🤝  I'm open to collaborating on interesting Open Source projects
 * ⚡  WinForms is my passion...
 
 ### Skills
